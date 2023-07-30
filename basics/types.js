@@ -1,5 +1,5 @@
 /*
-    numbers:
+    numbers: << this is a unique type.  \/ examples: 1 = 1.0
         float: 1,453 | -43,12 | 0,321
         int: 1 | -23 | 343
     string: "this is an string"
